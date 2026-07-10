@@ -19,7 +19,7 @@
 
 ---
 
-## 🚀 Method 1: Automated Installation Script (Recommended)
+## 🚀  Automated Installation Script
 
 This repository includes an automated script (`install_mt7902.sh`) that handles everything: installing dependencies, fetching the driver source, installing firmware, compiling the modules (with manual compression to fix Makefile errors), and disabling Bluetooth autosuspend.
 
